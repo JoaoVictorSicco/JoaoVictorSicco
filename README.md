@@ -1,6 +1,6 @@
 ## Olá, sou o João Victor<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <div align="left">
-  <a href="https://github.com/JoaoVictorSicco"> <img align="left" width="200" height="200" style="border-radius:30px;" src="https://github.com/JoaoVictorSicco/JoaoVictorSicco/blob/main/naruto.gif?raw=true" />
+  <a href="https://github.com/JoaoVictorSicco"> <img align="left" width="200" height="200" style="border-radius:30px;" src="https://github.com/JoaoVictorSicco/JoaoVictorSicco/blob/main/naruto.gif?raw=false" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorSicco&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     
     

@@ -5,7 +5,7 @@
     
     
 ## Sobre mim
-<p>👨‍💻 Estudando Engenharia Eletrônica na Universidade do Estado do Amazonas, cursando o 6° período atualmente </p>
+<p>👨‍💻 Estudando Engenharia Eletrônica na Universidade do Estado do Amazonas, cursando o 9° período atualmente </p>
 <p>👨‍🎓 Ensino médio técnico em Eletrônica na Fundação Nokia. </p>
 
 ## Softwares e linguagens que utilizo 💻
